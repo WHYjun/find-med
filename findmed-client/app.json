@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "findmed-client",
-    "description": "This project is really great.",
+    "description": "A front-end part of findmed",
     "slug": "findmed-client",
     "privacy": "public",
     "sdkVersion": "25.0.0",
